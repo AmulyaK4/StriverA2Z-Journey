@@ -1,7 +1,6 @@
 # Striver's A2Z DSA Sheet – Python Solutions 
 
-This repository contains my **Python implementations** of problems from **Striver's A2Z DSA Sheet**.  
-The sheet is a structured roadmap covering everything from **basic programming concepts** to **advanced algorithms** – making it one of the best guides for mastering **Data Structures & Algorithms**.
+This repository contains my **Python implementations** of problems from **Striver's A2Z DSA Sheet**.  1
 
 ---
 
