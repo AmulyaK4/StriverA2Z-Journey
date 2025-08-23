@@ -1,6 +1,6 @@
 # Striver's A2Z DSA Sheet – Python Solutions 
 
-This repository contains my **Python implementations** of problems from **Striver's A2Z DSA Sheet**.  1
+This repository contains my **Python implementations** of problems from **Striver's A2Z DSA Sheet**.  
 
 ---
 
