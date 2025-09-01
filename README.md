@@ -5,7 +5,6 @@ This repository contains my **Python implementations** of problems from **Strive
 ---
 
 ## 🚀 About the Repo
-- ✅ Solving **all problems** from Striver’s A2Z DSA Sheet  
 - ✅ Implemented in **Python** (with clean, readable code)  
 - ✅ Covers **Arrays, Strings, Recursion, Searching, Sorting, Linked Lists, Trees, Graphs, DP, and more**  
 - ✅ Organized topic-wise for easy navigation  
